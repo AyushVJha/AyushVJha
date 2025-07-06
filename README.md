@@ -106,7 +106,7 @@ Object detection and robotic arm motion planning using YOLOv5 and MoveIt!
 
 - LinkedIn: [linkedin.com/in/ayushvjha](https://linkedin.com/in/ayushvjha)  
 - GitHub: [github.com/AyushVJha](https://github.com/AyushVJha)  
-- Email: [ayushvjha@example.com](mailto:ayushvjha@example.com)  
+- Email: [ayushvjha@gmail.com](mailto:ayushvjha@gmail.com)  
 - Twitter: [@ayushvjha](https://twitter.com/ayushvjha)
 
 ---

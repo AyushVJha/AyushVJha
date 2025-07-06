@@ -1,98 +1,127 @@
-![AI & ML Developer Banner](https://images.pexels.com/photos/3184328/pexels-photo-3184328.jpeg?auto=compress&cs=tinysrgb&w=1260&h=400&dpr=1)
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://images.pexels.com/photos/3184328/pexels-photo-3184328.jpeg?auto=compress&cs=tinysrgb&w=1260&h=400&dpr=1" alt="AI Banner" width="100%">
+</p>
 
-# Ayush Vardhan Jha  
-## AI & ML Engineer | Legal Tech Innovator | Robotics Enthusiast
-
-Transforming legal research, robotics, and real-world automation using cutting-edge AI.  
-Currently focused on NLP, GenAI, and autonomous systems.
+<h1 align="center" style="font-size: 2.75rem; font-weight: bold; margin-bottom: 0.5rem;">
+  <span style="display: inline-block; animation: floatText 3s ease-in-out infinite;">Ayush Vardhan Jha</span>
+</h1>
+<h3 align="center" style="font-weight: 500;">AI & ML Engineer | Legal Tech Innovator | Robotics Enthusiast</h3>
+<p align="center" style="font-style: italic;">Transforming legal research, robotics, and automation using intelligent systems.</p>
 
 ---
 
 ## About Me
 
-I am an AI & ML developer with a deep interest in solving real-world problems through intelligent systems. Currently in my final year at Manipal Institute of Technology, I have hands-on experience building scalable, research-driven projects in:
+I’m a final-year AI & ML developer from Manipal Institute of Technology with a passion for solving real-world problems using robotics, deep learning, and automation.
 
-- Robotics (SLAM, path planning, ROS)
-- Legal AI (Indian legal document analysis)
-- Natural Language Processing and Generative AI (transformers, LLMs)
-- Computer Vision (drones, visual odometry)
-- Full-stack web development and data analytics
+- **Robotics**: SLAM, path planning, localization (ROS/ROS2)
+- **Legal AI**: Summarization, citation mining, LLM fine-tuning
+- **NLP & GenAI**: Transformers, LLMs, generation pipelines
+- **CV & Drones**: Visual odometry, object tracking
+- **Full-stack & Analytics**: React dashboards, API backends, BI solutions
 
-With a strong foundation in Python, C++, and cloud platforms, I bridge academic research with practical deployments across domains.
+I combine deep tech with product-oriented thinking and research-backed development.
 
 ---
 
 ## Featured Projects
 
 ### [NyayaAI - Legal Document Intelligence](https://github.com/AyushVJha/NyayaAI-Research)  
-![Legal AI](https://images.pexels.com/photos/5668772/pexels-photo-5668772.jpeg?auto=compress&cs=tinysrgb&w=400)  
+<a href="https://github.com/AyushVJha/NyayaAI-Research">
+  <img src="https://images.pexels.com/photos/5668772/pexels-photo-5668772.jpeg?auto=compress&cs=tinysrgb&w=1200" width="100%" alt="NyayaAI"/>
+</a>  
 **Python • AI/ML • Legal NLP**  
-AI-powered legal document processing system for Indian court judgments with citation extraction, summarization, and precedent mapping.
+An AI-powered platform that understands Indian legal documents with NLP capabilities including summarization, citation extraction, and precedent tracking.
 
 ---
 
 ### [Visual Odometry System for Drones](https://github.com/AyushVJha/Visual-Odometry-System-for-Drones)  
-![Drone Tech](https://images.pexels.com/photos/442587/pexels-photo-442587.jpeg?auto=compress&cs=tinysrgb&w=400)  
+<a href="https://github.com/AyushVJha/Visual-Odometry-System-for-Drones">
+  <img src="https://images.pexels.com/photos/442587/pexels-photo-442587.jpeg?auto=compress&cs=tinysrgb&w=1200" width="100%" alt="Drone Visual Odometry"/>
+</a>  
 **C++ • OpenCV • Robotics**  
-Monocular SLAM system for drone navigation using feature tracking, pose estimation, and bundle adjustment.
+A monocular SLAM system using feature tracking and pose estimation for robust indoor/outdoor drone navigation.
 
 ---
 
 ### [Business Operations Dashboard](https://github.com/AyushVJha/Business-Operations-Dashboard)  
-![Business Analytics](https://images.pexels.com/photos/590022/pexels-photo-590022.jpg?auto=compress&cs=tinysrgb&w=400)  
+<a href="https://github.com/AyushVJha/Business-Operations-Dashboard">
+  <img src="https://images.pexels.com/photos/6476588/pexels-photo-6476588.jpeg?auto=compress&cs=tinysrgb&w=1200" width="100%" alt="Business Dashboard"/>
+</a>  
 **React • TypeScript • Analytics**  
-Real-time KPI dashboard with data visualizations, backend APIs, and deployment-ready architecture.
+A modern analytics dashboard for monitoring key metrics with real-time data, backend APIs, and seamless deployment features.
 
 ---
 
 ### [Robotic Arm Object Manipulation](https://github.com/AyushVJha/Robotic-Arm-Object-Manipulation)  
-![Robotics](https://images.pexels.com/photos/2085831/pexels-photo-2085831.jpeg?auto=compress&cs=tinysrgb&w=400)  
+<a href="https://github.com/AyushVJha/Robotic-Arm-Object-Manipulation">
+  <img src="https://images.pexels.com/photos/2085831/pexels-photo-2085831.jpeg?auto=compress&cs=tinysrgb&w=1200" width="100%" alt="Robotic Arm"/>
+</a>  
 **Python • ROS • OpenCV**  
-Pick-and-place system using YOLOv5-based object detection and MoveIt! for inverse kinematics and motion planning.
+A precision-based robotic system that uses object detection (YOLOv5) and MoveIt! for pick-and-place manipulation.
 
 ---
 
-## Tech Stack and Tools
+## Tech Stack & Tools
 
 **Languages:** Python, C++, TypeScript, JavaScript  
-**AI/ML Libraries:** PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers, OpenCV  
-**Robotics:** ROS (ROS1/2), MoveIt!, Gazebo, RViz, Arduino, TurtleBot3  
-**Web Development:** React, Next.js, FastAPI, Streamlit  
-**Cloud & Tools:** Git, Docker, AWS, GCP, VSCode  
+**AI/ML Frameworks:** PyTorch, TensorFlow, scikit-learn, Hugging Face  
+**Robotics Tools:** ROS, Gazebo, RViz, Arduino  
+**Web & Cloud:** React, FastAPI, Streamlit, Docker, Git, AWS  
 **Databases:** PostgreSQL, MongoDB, Redis
 
 ---
 
 ## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushVJha&show_icons=true&theme=radical&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyushVJha&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushVJha&layout=compact&theme=radical&hide_border=true)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AyushVJha&theme=react-dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushVJha&show_icons=true&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushVJha&theme=radical&hide_border=true" width="48%">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushVJha&layout=compact&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushVJha&theme=react-dark&hide_border=true" width="100%">
+</p>
 
 ---
-**Focus Areas:**
+
+## Focus Areas
 
 - Natural Language Processing with transformer-based models  
-- Visual-based robotics (navigation, mapping, manipulation)  
-- Legal AI for document intelligence and legal research automation  
-- MLOps and model deployment in production-ready pipelines
-
-**Academic and Research Highlights:**
-
-- Published research paper at IEEE on reinforcement learning  
-- Built domain-specific AI systems for law, robotics, and business  
-- Multiple open-source contributions in AI, robotics, and DevTools
+- Visual robotics systems (mapping, odometry, navigation)  
+- Legal AI for legal research and document automation  
+- MLOps for production deployment and model lifecycle
 
 ---
 
-## Contact and Links
+## Highlights
 
-- [LinkedIn](https://linkedin.com/in/ayushvjha)  
-- [GitHub](https://github.com/AyushVJha)  
-- [Email](mailto:ayushvjha@example.com)  
-- [Twitter](https://twitter.com/ayushvjha)
+- Research Paper: IEEE — Reinforcement Learning in Continuous Control  
+- Legal NLP Systems deployed for Indian courts (NyayaAI)  
+- Visual-based SLAM & perception for robotics  
+- Full-stack analytics and automation projects across domains  
+- Active open-source contributor and system builder
 
 ---
 
-Crafted with precision, curiosity, and continuous learning.
+## Connect With Me
+
+**LinkedIn:** [linkedin.com/in/ayushvjha](https://linkedin.com/in/ayushvjha)  
+**GitHub:** [github.com/AyushVJha](https://github.com/AyushVJha)  
+**Email:** [ayushvjha@example.com](mailto:ayushvjha@example.com)  
+**Twitter:** [@ayushvjha](https://twitter.com/ayushvjha)
+
+---
+
+<p align="center" style="font-style: italic;">
+Crafted with precision, clarity, and a builder's mindset.
+</p>
+
+<!-- Float animation style (optional) -->
+<style>
+@keyframes floatText {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-8px); }
+}
+</style>

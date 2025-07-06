@@ -71,11 +71,6 @@ Pick-and-place system using YOLOv5-based object detection and MoveIt! for invers
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AyushVJha&theme=react-dark&hide_border=true)
 
 ---
-
-## Achievements and Highlights
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=AyushVJha&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 **Focus Areas:**
 
 - Natural Language Processing with transformer-based models  

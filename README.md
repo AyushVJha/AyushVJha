@@ -1,75 +1,64 @@
-![Professional AI & ML Developer Banner](https://images.pexels.com/photos/3184328/pexels-photo-3184328.jpeg?auto=compress&cs=tinysrgb&w=1260&h=400&dpr=1)
+![AI & ML Developer Banner](https://images.pexels.com/photos/3184328/pexels-photo-3184328.jpeg?auto=compress&cs=tinysrgb&w=1260&h=400&dpr=1)
 
-# Hi There!  
-## I'm Ayush Vardhan Jha  
-### AI & ML Enthusiast | Legal Tech Innovator
+# Ayush Vardhan Jha  
+## AI & ML Engineer | Legal Tech Innovator | Robotics Enthusiast
 
-### Transforming Legal Research with Cutting-Edge AI Technology  
-*Learning AI & ML with Python | Exploring Computer Science Domains | Currently Mastering Natural Language Processing*
+Transforming legal research, robotics, and real-world automation using cutting-edge AI.  
+Currently focused on NLP, GenAI, and autonomous systems.
 
 ---
 
 ## About Me
 
-```python
-class AyushVardhanJha:
-    def __init__(self):
-        self.name = "Ayush Vardhan Jha"
-        self.role = "AI & ML Developer"
-        self.location = "Manipal Institute of Technology"
-        self.current_focus = ["Natural Language Processing", "Legal AI", "Computer Vision"]
-        self.learning = ["Advanced Deep Learning", "Transformer Models", "MLOps"]
-        
-    def get_skills(self):
-        return {
-            "languages": ["Python", "JavaScript", "TypeScript"],
-            "ai_ml": ["TensorFlow", "PyTorch", "Scikit-learn", "Hugging Face"],
-            "web": ["React", "Next.js", "Streamlit", "FastAPI"],
-            "tools": ["Docker", "Git", "AWS", "Google Cloud"],
-            "databases": ["PostgreSQL", "MongoDB", "Redis"]
-        }
-    
-    def current_projects(self):
-        return [
-            "NyayaAI - AI-Powered Legal Document Intelligence",
-            "Visual Odometry System for Drones", 
-            "Business Operations Dashboard",
-            "Robotic Arm Object Manipulation"
-        ]
-```
+I am an AI & ML developer with a deep interest in solving real-world problems through intelligent systems. Currently in my final year at Manipal Institute of Technology, I have hands-on experience building scalable, research-driven projects in:
+
+- Robotics (SLAM, path planning, ROS)
+- Legal AI (Indian legal document analysis)
+- Natural Language Processing and Generative AI (transformers, LLMs)
+- Computer Vision (drones, visual odometry)
+- Full-stack web development and data analytics
+
+With a strong foundation in Python, C++, and cloud platforms, I bridge academic research with practical deployments across domains.
 
 ---
 
 ## Featured Projects
 
-### NyayaAI Research
-[![Legal AI](https://images.pexels.com/photos/5668772/pexels-photo-5668772.jpeg?auto=compress&cs=tinysrgb&w=400)](https://github.com/AyushVJha/NyayaAI-Research)  
-Python • AI/ML • Legal Tech  
-AI-powered legal document processing system for Indian court judgments with advanced NLP capabilities.
-
-### Visual Odometry System
-[![Drone Technology](https://images.pexels.com/photos/442587/pexels-photo-442587.jpeg?auto=compress&cs=tinysrgb&w=400)](https://github.com/AyushVJha/Visual-Odometry-System-for-Drones)  
-TypeScript • Computer Vision • Robotics  
-State-of-the-art drone navigation system using advanced computer vision algorithms.
-
-### Business Dashboard
-[![Business Analytics](https://images.pexels.com/photos/590022/pexels-photo-590022.jpg?auto=compress&cs=tinysrgb&w=400)](https://github.com/AyushVJha/Business-Operations-Dashboard)  
-TypeScript • React • Analytics  
-Modern web-based dashboard for monitoring and optimizing business operations with real-time insights.
-
-### Robotic Arm Control
-[![Robotics](https://images.pexels.com/photos/2085831/pexels-photo-2085831.jpeg?auto=compress&cs=tinysrgb&w=400)](https://github.com/AyushVJha/Robotic-Arm-Object-Manipulation)  
-TypeScript • Robotics • AI  
-Advanced robotic arm system for precise object manipulation using machine learning algorithms.
+### [NyayaAI - Legal Document Intelligence](https://github.com/AyushVJha/NyayaAI-Research)  
+![Legal AI](https://images.pexels.com/photos/5668772/pexels-photo-5668772.jpeg?auto=compress&cs=tinysrgb&w=400)  
+**Python • AI/ML • Legal NLP**  
+AI-powered legal document processing system for Indian court judgments with citation extraction, summarization, and precedent mapping.
 
 ---
 
-## Tech Stack & Tools
+### [Visual Odometry System for Drones](https://github.com/AyushVJha/Visual-Odometry-System-for-Drones)  
+![Drone Tech](https://images.pexels.com/photos/442587/pexels-photo-442587.jpeg?auto=compress&cs=tinysrgb&w=400)  
+**C++ • OpenCV • Robotics**  
+Monocular SLAM system for drone navigation using feature tracking, pose estimation, and bundle adjustment.
 
-**Programming Languages:** Python, JavaScript, TypeScript, HTML, CSS  
-**AI/ML & Data Science:** TensorFlow, PyTorch, OpenCV  
-**Web Development:** React, Next.js, Node.js, FastAPI, Streamlit  
-**Tools & Platforms:** Docker, Git, GitHub, AWS, Google Cloud, VSCode  
+---
+
+### [Business Operations Dashboard](https://github.com/AyushVJha/Business-Operations-Dashboard)  
+![Business Analytics](https://images.pexels.com/photos/590022/pexels-photo-590022.jpg?auto=compress&cs=tinysrgb&w=400)  
+**React • TypeScript • Analytics**  
+Real-time KPI dashboard with data visualizations, backend APIs, and deployment-ready architecture.
+
+---
+
+### [Robotic Arm Object Manipulation](https://github.com/AyushVJha/Robotic-Arm-Object-Manipulation)  
+![Robotics](https://images.pexels.com/photos/2085831/pexels-photo-2085831.jpeg?auto=compress&cs=tinysrgb&w=400)  
+**Python • ROS • OpenCV**  
+Pick-and-place system using YOLOv5-based object detection and MoveIt! for inverse kinematics and motion planning.
+
+---
+
+## Tech Stack and Tools
+
+**Languages:** Python, C++, TypeScript, JavaScript  
+**AI/ML Libraries:** PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers, OpenCV  
+**Robotics:** ROS (ROS1/2), MoveIt!, Gazebo, RViz, Arduino, TurtleBot3  
+**Web Development:** React, Next.js, FastAPI, Streamlit  
+**Cloud & Tools:** Git, Docker, AWS, GCP, VSCode  
 **Databases:** PostgreSQL, MongoDB, Redis
 
 ---
@@ -83,28 +72,32 @@ Advanced robotic arm system for precise object manipulation using machine learni
 
 ---
 
-## Achievements & Highlights
+## Achievements and Highlights
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=AyushVJha&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### Current Focus Areas
-- Natural Language Processing - Advanced transformer models and legal text analysis  
-- Computer Vision - Drone navigation and robotic manipulation systems  
-- Legal Technology - AI-powered document intelligence for Indian legal system  
-- MLOps - Scalable machine learning deployment and monitoring
+**Focus Areas:**
 
-### Notable Projects
-- 20+ Repositories spanning AI/ML, Web Development, and Robotics  
-- Legal AI Research - Pioneering work in Indian legal document processing  
-- Open Source Contributions - Active contributor to AI/ML community  
-- Academic Excellence - Manipal Institute of Technology
+- Natural Language Processing with transformer-based models  
+- Visual-based robotics (navigation, mapping, manipulation)  
+- Legal AI for document intelligence and legal research automation  
+- MLOps and model deployment in production-ready pipelines
 
----
+**Academic and Research Highlights:**
 
-## Connect With Me
-
-[LinkedIn](https://linkedin.com/in/ayushvjha) | [Twitter](https://twitter.com/ayushvjha) | [Email](mailto:ayushvjha@example.com) | [GitHub](https://github.com/AyushVJha)
+- Published research paper at IEEE on reinforcement learning  
+- Built domain-specific AI systems for law, robotics, and business  
+- Multiple open-source contributions in AI, robotics, and DevTools
 
 ---
 
-⭐ From [AyushVJha](https://github.com/AyushVJha) with ❤️
+## Contact and Links
+
+- [LinkedIn](https://linkedin.com/in/ayushvjha)  
+- [GitHub](https://github.com/AyushVJha)  
+- [Email](mailto:ayushvjha@example.com)  
+- [Twitter](https://twitter.com/ayushvjha)
+
+---
+
+Crafted with precision, curiosity, and continuous learning.

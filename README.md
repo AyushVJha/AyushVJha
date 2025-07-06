@@ -1,127 +1,114 @@
-<!-- Banner Image -->
+<!-- Banner -->
 <p align="center">
   <img src="https://images.pexels.com/photos/3184328/pexels-photo-3184328.jpeg?auto=compress&cs=tinysrgb&w=1260&h=400&dpr=1" alt="AI Banner" width="100%">
 </p>
 
-<h1 align="center" style="font-size: 2.75rem; font-weight: bold; margin-bottom: 0.5rem;">
-  <span style="display: inline-block; animation: floatText 3s ease-in-out infinite;">Ayush Vardhan Jha</span>
-</h1>
-<h3 align="center" style="font-weight: 500;">AI & ML Engineer | Legal Tech Innovator | Robotics Enthusiast</h3>
-<p align="center" style="font-style: italic;">Transforming legal research, robotics, and automation using intelligent systems.</p>
+<h1 align="center">Ayush Vardhan Jha</h1>
+<h3 align="center">AI & ML Engineer | Legal Tech Innovator | Robotics Enthusiast</h3>
+
+<p align="center">
+Transforming legal research, robotics, and automation using intelligent systems.<br>
+Currently focused on NLP, GenAI, and autonomous systems.
+</p>
 
 ---
 
-## About Me
+## 🧠 About Me
 
-I’m a final-year AI & ML developer from Manipal Institute of Technology with a passion for solving real-world problems using robotics, deep learning, and automation.
+Final-year AI & ML developer at **Manipal Institute of Technology** with a focus on solving real-world challenges through:
 
-- **Robotics**: SLAM, path planning, localization (ROS/ROS2)
-- **Legal AI**: Summarization, citation mining, LLM fine-tuning
-- **NLP & GenAI**: Transformers, LLMs, generation pipelines
-- **CV & Drones**: Visual odometry, object tracking
-- **Full-stack & Analytics**: React dashboards, API backends, BI solutions
-
-I combine deep tech with product-oriented thinking and research-backed development.
+- Robotics (SLAM, path planning, localization)
+- Legal AI (court document summarization, citation mining)
+- Natural Language Processing & GenAI (transformers, LLMs)
+- Computer Vision (visual odometry, object tracking)
+- Full-stack development and data dashboards
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### [NyayaAI - Legal Document Intelligence](https://github.com/AyushVJha/NyayaAI-Research)  
-<a href="https://github.com/AyushVJha/NyayaAI-Research">
-  <img src="https://images.pexels.com/photos/5668772/pexels-photo-5668772.jpeg?auto=compress&cs=tinysrgb&w=1200" width="100%" alt="NyayaAI"/>
-</a>  
+### [NyayaAI - Legal Document Intelligence](https://github.com/AyushVJha/NyayaAI-Research)
+![NyayaAI](https://images.pexels.com/photos/5668772/pexels-photo-5668772.jpeg?auto=compress&cs=tinysrgb&w=800)
+
 **Python • AI/ML • Legal NLP**  
-An AI-powered platform that understands Indian legal documents with NLP capabilities including summarization, citation extraction, and precedent tracking.
+AI-powered Indian court judgment processing with citation extraction, summarization, and precedent mapping.
 
 ---
 
-### [Visual Odometry System for Drones](https://github.com/AyushVJha/Visual-Odometry-System-for-Drones)  
-<a href="https://github.com/AyushVJha/Visual-Odometry-System-for-Drones">
-  <img src="https://images.pexels.com/photos/442587/pexels-photo-442587.jpeg?auto=compress&cs=tinysrgb&w=1200" width="100%" alt="Drone Visual Odometry"/>
-</a>  
+### [Visual Odometry for Drones](https://github.com/AyushVJha/Visual-Odometry-System-for-Drones)
+![Drone](https://images.pexels.com/photos/442587/pexels-photo-442587.jpeg?auto=compress&cs=tinysrgb&w=800)
+
 **C++ • OpenCV • Robotics**  
-A monocular SLAM system using feature tracking and pose estimation for robust indoor/outdoor drone navigation.
+Monocular SLAM for drone navigation using feature tracking and bundle adjustment.
 
 ---
 
-### [Business Operations Dashboard](https://github.com/AyushVJha/Business-Operations-Dashboard)  
-<a href="https://github.com/AyushVJha/Business-Operations-Dashboard">
-  <img src="https://images.pexels.com/photos/6476588/pexels-photo-6476588.jpeg?auto=compress&cs=tinysrgb&w=1200" width="100%" alt="Business Dashboard"/>
-</a>  
+### [Business Operations Dashboard](https://github.com/AyushVJha/Business-Operations-Dashboard)
+![Dashboard](https://images.pexels.com/photos/6476588/pexels-photo-6476588.jpeg?auto=compress&cs=tinysrgb&w=800)
+
 **React • TypeScript • Analytics**  
-A modern analytics dashboard for monitoring key metrics with real-time data, backend APIs, and seamless deployment features.
+Real-time business KPI dashboard with custom visualizations and backend API integration.
 
 ---
 
-### [Robotic Arm Object Manipulation](https://github.com/AyushVJha/Robotic-Arm-Object-Manipulation)  
-<a href="https://github.com/AyushVJha/Robotic-Arm-Object-Manipulation">
-  <img src="https://images.pexels.com/photos/2085831/pexels-photo-2085831.jpeg?auto=compress&cs=tinysrgb&w=1200" width="100%" alt="Robotic Arm"/>
-</a>  
+### [Robotic Arm Manipulation](https://github.com/AyushVJha/Robotic-Arm-Object-Manipulation)
+![Robotic Arm](https://images.pexels.com/photos/2085831/pexels-photo-2085831.jpeg?auto=compress&cs=tinysrgb&w=800)
+
 **Python • ROS • OpenCV**  
-A precision-based robotic system that uses object detection (YOLOv5) and MoveIt! for pick-and-place manipulation.
+Object detection and robotic arm motion planning using YOLOv5 and MoveIt!
 
 ---
 
-## Tech Stack & Tools
+## 🛠️ Tech Stack
 
-**Languages:** Python, C++, TypeScript, JavaScript  
-**AI/ML Frameworks:** PyTorch, TensorFlow, scikit-learn, Hugging Face  
-**Robotics Tools:** ROS, Gazebo, RViz, Arduino  
-**Web & Cloud:** React, FastAPI, Streamlit, Docker, Git, AWS  
+**Languages:** Python, C++, TypeScript  
+**Frameworks:** PyTorch, TensorFlow, Hugging Face  
+**Robotics:** ROS, Gazebo, MoveIt!, RViz  
+**Web:** React, FastAPI, Streamlit  
+**Cloud:** Docker, AWS, GitHub Actions  
 **Databases:** PostgreSQL, MongoDB, Redis
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushVJha&show_icons=true&theme=radical&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushVJha&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushVJha&show_icons=true&theme=radical" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushVJha&theme=radical" width="48%">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushVJha&layout=compact&theme=radical&hide_border=true" width="48%">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushVJha&theme=react-dark&hide_border=true" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushVJha&layout=compact&theme=radical" width="48%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushVJha&theme=react-dark" width="100%">
 </p>
 
 ---
 
-## Focus Areas
+## 🎯 Focus Areas
 
-- Natural Language Processing with transformer-based models  
-- Visual robotics systems (mapping, odometry, navigation)  
-- Legal AI for legal research and document automation  
-- MLOps for production deployment and model lifecycle
-
----
-
-## Highlights
-
-- Research Paper: IEEE — Reinforcement Learning in Continuous Control  
-- Legal NLP Systems deployed for Indian courts (NyayaAI)  
-- Visual-based SLAM & perception for robotics  
-- Full-stack analytics and automation projects across domains  
-- Active open-source contributor and system builder
+- Transformer-based NLP and legal document intelligence  
+- Vision-based robotics (navigation, mapping, manipulation)  
+- GenAI with LLMs and multimodal AI systems  
+- MLOps and end-to-end AI pipelines
 
 ---
 
-## Connect With Me
+## 🏆 Highlights
 
-**LinkedIn:** [linkedin.com/in/ayushvjha](https://linkedin.com/in/ayushvjha)  
-**GitHub:** [github.com/AyushVJha](https://github.com/AyushVJha)  
-**Email:** [ayushvjha@example.com](mailto:ayushvjha@example.com)  
-**Twitter:** [@ayushvjha](https://twitter.com/ayushvjha)
+- IEEE-published paper on Reinforcement Learning  
+- AI systems for Indian legal research (NyayaAI)  
+- Real-world SLAM and robotic simulation projects  
+- Full-stack dashboards and business analytics tools  
+- Open-source contributions and dev tools
 
 ---
 
-<p align="center" style="font-style: italic;">
-Crafted with precision, clarity, and a builder's mindset.
-</p>
+## 📫 Connect with Me
 
-<!-- Float animation style (optional) -->
-<style>
-@keyframes floatText {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-8px); }
-}
-</style>
+- LinkedIn: [linkedin.com/in/ayushvjha](https://linkedin.com/in/ayushvjha)  
+- GitHub: [github.com/AyushVJha](https://github.com/AyushVJha)  
+- Email: [ayushvjha@example.com](mailto:ayushvjha@example.com)  
+- Twitter: [@ayushvjha](https://twitter.com/ayushvjha)
+
+---
+
+<p align="center"><i>Crafted with clarity, curiosity, and clean code.</i></p>

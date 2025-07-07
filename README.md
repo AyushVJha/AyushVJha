@@ -10,7 +10,7 @@ Currently focused on NLP, GenAI, and autonomous systems.
 
 ---
 
-## 🧠 About Me
+## About Me
 
 Final-year AI & ML developer at **Manipal Institute of Technology** with a focus on solving real-world challenges through:
 
@@ -22,7 +22,7 @@ Final-year AI & ML developer at **Manipal Institute of Technology** with a focus
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [NyayaAI - Legal Document Intelligence](https://github.com/AyushVJha/NyayaAI-Research)
 ![NyayaAI](https://images.pexels.com/photos/5668772/pexels-photo-5668772.jpeg?auto=compress&cs=tinysrgb&w=800)
@@ -56,7 +56,7 @@ Object detection and robotic arm motion planning using YOLOv5 and MoveIt!
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** Python, C++, TypeScript  
 **Frameworks:** PyTorch, TensorFlow, Hugging Face  
@@ -67,7 +67,7 @@ Object detection and robotic arm motion planning using YOLOv5 and MoveIt!
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AyushVJha&show_icons=true&theme=radical" width="48%">
@@ -80,7 +80,7 @@ Object detection and robotic arm motion planning using YOLOv5 and MoveIt!
 
 ---
 
-## 🎯 Focus Areas
+## Focus Areas
 
 - Transformer-based NLP and legal document intelligence  
 - Vision-based robotics (navigation, mapping, manipulation)  
@@ -89,7 +89,7 @@ Object detection and robotic arm motion planning using YOLOv5 and MoveIt!
 
 ---
 
-## 🏆 Highlights
+## Highlights
 
 - IEEE-published paper on Reinforcement Learning  
 - AI systems for Indian legal research (NyayaAI)  
@@ -99,7 +99,7 @@ Object detection and robotic arm motion planning using YOLOv5 and MoveIt!
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 - LinkedIn: [linkedin.com/in/ayushvjha](https://linkedin.com/in/ayushvjha)  
 - GitHub: [github.com/AyushVJha](https://github.com/AyushVJha)  

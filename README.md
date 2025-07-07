@@ -1,7 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://images.pexels.com/photos/3184328/pexels-photo-3184328.jpeg?auto=compress&cs=tinysrgb&w=1260&h=400&dpr=1" alt="AI Banner" width="100%">
-</p>
 
 <h1 align="center">Ayush Vardhan Jha</h1>
 <h3 align="center">AI & ML Engineer | Legal Tech Innovator | Robotics Enthusiast</h3>

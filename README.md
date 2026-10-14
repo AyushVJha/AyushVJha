@@ -1,111 +1,54 @@
-<!-- Banner -->
-
 <h1 align="center">Ayush Vardhan Jha</h1>
-<h3 align="center">AI & ML Engineer | Legal Tech Innovator | Robotics Enthusiast</h3>
+<h3 align="center">AI Engineer · Production LLM and ML systems · Bengaluru</h3>
 
 <p align="center">
-Transforming legal research, robotics, and automation using intelligent systems.<br>
-Currently focused on NLP, GenAI, and autonomous systems.
+<a href="https://linkedin.com/in/ayushvjha">LinkedIn</a> ·
+<a href="mailto:ayushvjha@outlook.com">Email</a> ·
+<a href="https://twitter.com/ayushvjha">Twitter</a>
 </p>
 
 ---
 
-## About Me
+## What I do
 
-Final-year AI & ML developer at **Manipal Institute of Technology** with a focus on solving real-world challenges through:
+I build and ship production AI systems end to end: data pipelines, model training, LLM agents and extraction, full-stack apps and deployment.
 
-- Robotics (SLAM, path planning, localization)
-- Legal AI (court document summarization, citation mining)
-- Natural Language Processing & GenAI (transformers, LLMs)
-- Computer Vision (visual odometry, object tracking)
-- Full-stack development and data dashboards
+**Now:** AI/ML Engineer at TurtleLogix, building AI systems for **Lakshmikumaran & Sridharan**, a leading Indian IP law firm. That code is private client work; here is what it does:
 
----
-
-## Featured Projects
-
-### [NyayaAI - Legal Document Intelligence](https://github.com/AyushVJha/NyayaAI-Research)
-![NyayaAI](https://images.pexels.com/photos/5668772/pexels-photo-5668772.jpeg?auto=compress&cs=tinysrgb&w=800)
-
-**Python • AI/ML • Legal NLP**  
-AI-powered Indian court judgment processing with citation extraction, summarization, and precedent mapping.
+- **IPR Docket**: an email triage platform that classifies every incoming email into one of **357 IP-law event types** and routes it to the right team, with human-in-the-loop review feeding training data back. *Go, Vue 3, PostgreSQL, Redis*
+- **Email classification and extraction service**: a two-stage classifier for a docketing team handling **1,000–1,200 emails a day**, trained on 92.7k emails (0.79 macro F1, 5-fold CV), with LLM verification and extraction of 24 case fields. *Python, scikit-learn, PyTorch, FastAPI, vLLM*
+- **FER drafting platform** (team): a LangGraph agent that drafts responses to patent examiners' objections, fed by scrapers across 6 patent registries. *Python, LangGraph, TypeScript, Qdrant*
 
 ---
 
-### [Visual Odometry for Drones](https://github.com/AyushVJha/Visual-Odometry-System-for-Drones)
-![Drone](https://images.pexels.com/photos/442587/pexels-photo-442587.jpeg?auto=compress&cs=tinysrgb&w=800)
+## Public projects
 
-**C++ • OpenCV • Robotics**  
-Monocular SLAM for drone navigation using feature tracking and bundle adjustment.
+### [Adverse Drug Event Detection](https://github.com/AyushVJha/ade-detection)
+BioClinicalBERT pipeline that flags adverse drug events in clinical sentences and extracts drug and symptom mentions. *PyTorch, Hugging Face, spaCy*
 
----
+### [NyayaAI](https://github.com/AyushVJha/NyayaAI-Research)
+Indian court judgment processing: citation extraction, summarization and precedent mapping. *Python, NLP*
 
-### [Business Operations Dashboard](https://github.com/AyushVJha/Business-Operations-Dashboard)
-![Dashboard](https://images.pexels.com/photos/6476588/pexels-photo-6476588.jpeg?auto=compress&cs=tinysrgb&w=800)
-
-**React • TypeScript • Analytics**  
-Real-time business KPI dashboard with custom visualizations and backend API integration.
-
----
-
-### [Robotic Arm Manipulation](https://github.com/AyushVJha/Robotic-Arm-Object-Manipulation)
-![Robotic Arm](https://images.pexels.com/photos/2085831/pexels-photo-2085831.jpeg?auto=compress&cs=tinysrgb&w=800)
-
-**Python • ROS • OpenCV**  
-Object detection and robotic arm motion planning using YOLOv5 and MoveIt!
+### Earlier work
+[Visual Odometry for Drones](https://github.com/AyushVJha/Visual-Odometry-System-for-Drones) (C++, OpenCV) ·
+[Robotic Arm Manipulation](https://github.com/AyushVJha/Robotic-Arm-Object-Manipulation) (ROS, YOLOv5) ·
+[Business Operations Dashboard](https://github.com/AyushVJha/Business-Operations-Dashboard) (React, TypeScript)
 
 ---
 
-## Tech Stack
+## Publications
 
-**Languages:** Python, C++, TypeScript  
-**Frameworks:** PyTorch, TensorFlow, Hugging Face  
-**Robotics:** ROS, Gazebo, MoveIt!, RViz  
-**Web:** React, FastAPI, Streamlit  
-**Cloud:** Docker, AWS, GitHub Actions  
-**Databases:** PostgreSQL, MongoDB, Redis
+- **Enhancing Potato Crop Health: A CNN-Based System for Early Detection of Early and Late Blight**, first author, Springer *Studies in Computational Intelligence*, 2025 · [Paper](https://doi.org/10.1007/978-3-031-93087-4_16)
+- **Soft Actor-Critic Algorithm in High-Dimensional Continuous Control Tasks**, IEEE, 2025 · [Paper](https://ieeexplore.ieee.org/document/10881478)
 
 ---
 
-## GitHub Stats
+## Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushVJha&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushVJha&theme=radical" width="48%">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushVJha&layout=compact&theme=radical" width="48%">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushVJha&theme=react-dark" width="100%">
-</p>
+**Languages:** Python, Go, SQL, JavaScript  
+**ML and LLMs:** PyTorch, scikit-learn, Hugging Face Transformers, LangGraph, vLLM, Qdrant  
+**Backend and infra:** FastAPI, PostgreSQL, Redis, Docker, Vue 3, GitHub Actions
 
 ---
 
-## Focus Areas
-
-- Transformer-based NLP and legal document intelligence  
-- Vision-based robotics (navigation, mapping, manipulation)  
-- GenAI with LLMs and multimodal AI systems  
-- MLOps and end-to-end AI pipelines
-
----
-
-## Highlights
-
-- IEEE-published paper on Reinforcement Learning  
-- AI systems for Indian legal research (NyayaAI)  
-- Real-world SLAM and robotic simulation projects  
-- Full-stack dashboards and business analytics tools  
-- Open-source contributions and dev tools
-
----
-
-## Connect with Me
-
-- LinkedIn: [linkedin.com/in/ayushvjha](https://linkedin.com/in/ayushvjha)  
-- GitHub: [github.com/AyushVJha](https://github.com/AyushVJha)  
-- Email: [ayushvjha@gmail.com](mailto:ayushvjha@gmail.com)  
-- Twitter: [@ayushvjha](https://twitter.com/ayushvjha)
-
----
-
-<p align="center"><i>Crafted with clarity, curiosity, and clean code.</i></p>
+**Education:** B.Tech in Computer Science (AI & ML), Manipal Institute of Technology, 2025
